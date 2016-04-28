@@ -1,7 +1,0 @@
-platform :ios, '9.0'
-use_frameworks!
-
-target 'SwiftAndOC' do
- pod 'SDAutoLayout'
-pod 'HyphenateSDK', :git => 'https://github.com/easemob/hyphenate-cocoapods.git'
-end
